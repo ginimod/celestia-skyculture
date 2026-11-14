@@ -1,5 +1,5 @@
 # celestia-skyculture
-Un repository 11 cultures stellaires américaine pour Celestia
+Un repository 11 cultures stellaires américaines pour Celestia
 
 ![](logo.webp)
 
