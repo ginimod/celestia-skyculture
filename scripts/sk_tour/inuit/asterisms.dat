@@ -1,0 +1,75 @@
+# SPDX-FileCopyrightText:  
+# SPDX-License-Identifier: GPL-2.0-or-later
+
+# Constellation patterns converted from JSON
+
+"Aagjuuk"
+[
+  [ "HIP 97649" "HIP 97278" ]
+]
+
+"Akkuttujuuk"
+[
+  [ "HIP 27989" "HIP 25336" ]
+]
+
+"Qimmiitt"
+[
+  [ "HIP 21421" "HIP 20894" "HIP 20205" "HIP 20455" "HIP 20889" ]
+]
+
+"Quturjuuk"
+[
+  [ "HIP 24608" "HIP 28360" "HIP 36850" "HIP 37826" ]
+]
+
+"Pituaq"
+[
+  [ "HIP 4427" "HIP 3179" "HIP 746" "HIP 4427" ]
+]
+
+"Tukturjuit"
+[
+  [ "HIP 67301" "HIP 65378" "HIP 62956" "HIP 59774" "HIP 58001" "HIP 53910" "HIP 54061" "HIP 59774" ]
+]
+
+"Sivulliik"
+[
+  [ "HIP 67927" "HIP 69673" ]
+]
+
+"Sakiattiak"
+[
+  [ "HIP 17851" "HIP 17847" "HIP 17702" "HIP 17851" ]
+  [ "HIP 17702" "HIP 17608" "HIP 17499" "HIP 17531" "HIP 17702" ]
+]
+
+"Ullaktut"
+[
+  [ "HIP 26727" "HIP 26311" "HIP 25930" ]
+]
+
+"Uqsuutaattiaq"
+[
+  [ "HIP 8886" "HIP 6686" "HIP 4427" "HIP 3821" "HIP 3179" "HIP 746" ]
+]
+
+"Kingulliq"
+[
+  [ "HIP 91262" "HIP 91262" ]
+]
+
+"Qangimmaariik"
+[
+  [ "HIP DSO:M42" "HIP DSO:M42" ]
+]
+
+"Nuuttuittuq"
+[
+  [ "HIP 11767" "HIP 11767" ]
+]
+
+"Sikuliaqsiujuittuq"
+[
+  [ "HIP 37279" "HIP 37279" ]
+]

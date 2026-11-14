@@ -1,0 +1,29 @@
+# SPDX-FileCopyrightText:  
+# SPDX-License-Identifier: GPL-2.0-or-later
+
+# Constellation patterns converted from JSON
+
+"Baweta"
+[
+  [ "HIP 17702" "HIP 17448" ]
+  [ "HIP 17702" "HIP 18246" ]
+]
+
+"Wücütcha"
+[
+  [ "HIP 25930" "HIP 26311" "HIP 26727" ]
+  [ "HIP 26311" "HIP 26241" "HIP 27366" "HIP 28103" "HIP 28816" "HIP 27654" "HIP 26862" ]
+]
+
+"Coyatchicüra"
+[
+  [ "HIP 21421" "HIP 20205" "HIP 20889" ]
+]
+
+"Tchatü-Ai"
+[
+  [ "HIP 60718" "HIP 59747" "HIP 61084" "HIP 66657" "HIP 74395" "HIP 71683" "HIP 71908" ]
+  [ "HIP 74395" "HIP 82396" "HIP 80763" ]
+  [ "HIP 82396" "HIP 85927" ]
+  [ "HIP 84143" "HIP 86228" "HIP 83081" "HIP 82363" "HIP 79664" "HIP 77952" ]
+]

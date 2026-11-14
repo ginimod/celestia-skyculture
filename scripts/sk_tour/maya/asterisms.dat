@@ -1,0 +1,90 @@
+# SPDX-FileCopyrightText:  
+# SPDX-License-Identifier: GPL-2.0-or-later
+
+# Constellation patterns converted from JSON
+
+"Way Paat Ahiin"
+[
+  [ "HIP 6686" "HIP 4427" "HIP 3179" "HIP 746" "HIP 102098" "HIP 100453" "HIP 99824" ]
+  [ "HIP 100453" "HIP 91262" ]
+]
+
+"Aak"
+[
+  [ "HIP 26727" "HIP 25930" ]
+]
+
+"Oxib' Xk'ub'"
+[
+  [ "HIP 27366" "HIP 24436" "HIP 26727" ]
+  [ "HIP 27366" "HIP 26727" ]
+]
+
+"kitamob"
+[
+  [ "HIP 37826" "HIP 36850" "HIP 38016" ]
+]
+
+"Xoc"
+[
+  [ "HIP 68895" "HIP 68933" "HIP 76470" ]
+  [ "HIP 68933" "HIP 65109" "HIP 68002" "HIP 71352" "HIP 73273" "HIP 71860" ]
+]
+
+"Siina'an"
+[
+  [ "HIP 80763" "HIP 78104" "HIP 80911" "HIP 82729" ]
+  [ "HIP 80911" "HIP 76939" ]
+]
+
+"Kaan"
+[
+  [ "HIP 92855" "HIP 93506" "HIP 90185" "HIP 88635" ]
+  [ "HIP 90185" "HIP 89642" "HIP 86228" "HIP 90422" "HIP 93174" "HIP 93825" "HIP 94160" "HIP 93542" ]
+]
+
+"Paddler Gods"
+[
+  [ "HIP 60718" "HIP 32349" ]
+]
+
+"Zool"
+[
+  [ "HIP 5364" "HIP 3419" "HIP 1562" ]
+  [ "HIP 4577" "HIP 5364" ]
+  [ "HIP 1562" "HIP 1708" "HIP 4577" ]
+]
+
+"Kulte'"
+[
+  [ "HIP 18907" "HIP 19860" ]
+  [ "HIP 21421" "HIP 20205" "HIP 20889" ]
+  [ "HIP 20205" "HIP 18724" ]
+  [ "HIP 20205" "HIP 19860" ]
+  [ "HIP 21589" "HIP 20205" ]
+  [ "HIP 21589" "HIP 22449" ]
+  [ "HIP 18724" "HIP 17771" "HIP 17563" ]
+]
+
+"Ch'oom"
+[
+  [ "HIP 12832" "HIP 12828" "HIP 11249" ]
+  [ "HIP 12828" "HIP 11484" ]
+  [ "HIP 12828" "HIP 14135" ]
+  [ "HIP 11484" "HIP 12706" ]
+]
+
+"Kimi"
+[
+  [ "HIP 50851" "HIP 46771" "HIP 47431" "HIP 50851" ]
+]
+
+"B'alaam"
+[
+  [ "HIP 107380" "HIP 98353" "HIP 98761" "HIP 107380" ]
+]
+
+"Uo"
+[
+  [ "HIP 64962" "HIP 60965" "HIP 59316" "HIP 64962" ]
+]

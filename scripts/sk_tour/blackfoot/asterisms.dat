@@ -1,0 +1,29 @@
+# SPDX-FileCopyrightText:  
+# SPDX-License-Identifier: GPL-2.0-or-later
+
+# Constellation patterns converted from JSON
+
+"Seven Brothers and Their Sister"
+[
+  [ "HIP 67301" "HIP 65378" "HIP 62956" "HIP 59774" "HIP 58001" "HIP 53910" "HIP 54061" ]
+  [ "HIP 65477" "HIP 65477" ]
+]
+
+"Ashes-Chief and Stuck-Behind"
+[
+  [ "HIP 36850" "HIP 37826" ]
+]
+
+"Spider Man's Fingers"
+[
+  [ "HIP 84345" "HIP 80170" ]
+  [ "HIP 86414" "HIP 84380" "HIP 83207" "HIP 80816" "HIP 80170" ]
+  [ "HIP 79101" "HIP 79992" "HIP 81126" "HIP 81833" "HIP 81693" "HIP 80816" ]
+  [ "HIP 87933" "HIP 86974" "HIP 85693" "HIP 84379" "HIP 80170" ]
+  [ "HIP 92161" "HIP 92043" "HIP 90139" "HIP 88267" "HIP 80170" ]
+]
+
+"Lodge of the Spider Man"
+[
+  [ "HIP 76127" "HIP 75695" "HIP 76267" "HIP 76952" "HIP 77512" "HIP 78159" ]
+]

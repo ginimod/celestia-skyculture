@@ -1,0 +1,88 @@
+# SPDX-FileCopyrightText:  
+# SPDX-License-Identifier: GPL-2.0-or-later
+
+# Constellation patterns converted from JSON
+
+"Zaamth"
+[
+  [ "HIP 25281" "HIP 24436" "HIP 26241" "HIP 26727" "HIP 26311" "HIP 25930" "HIP 25281" "HIP 24436" ]
+  [ "HIP 25930" "HIP 26366" "HIP 27989" "HIP 26727" ]
+  [ "HIP 25336" "HIP 26366" ]
+  [ "HIP 24436" "HIP 23875" ]
+]
+
+"Cohamc"
+[
+  [ "HIP 54061" "HIP 53910" "HIP 54539" "HIP 55219" "HIP 55203" "HIP 54951" "HIP 54872" ]
+]
+
+"Haapjc"
+[
+  [ "HIP 37826" "HIP 36962" "HIP 36429" "HIP 36046" "HIP 36850" "HIP 37826" ]
+  [ "HIP 37629" "HIP 20205" ]
+  [ "HIP 21421" "HIP 20205" "HIP 20889" ]
+]
+
+"Caamoilcoj"
+[
+  [ "HIP 58001" "HIP 59774" "HIP 62956" "HIP 65378" "HIP 66634" "HIP 67301" ]
+  [ "HIP 60485" "HIP 60988" ]
+]
+
+"Hácosa"
+[
+  [ "HIP 746" "HIP 4427" "HIP 6686" ]
+  [ "HIP 3179" "HIP 4427" ]
+]
+
+"Hazoj canoj Hantificaü"
+[
+  [ "HIP 32349" "HIP 31758" "HIP 32349" ]
+]
+
+"Yay xapi hanopas"
+[
+  [ "HIP 30438" "HIP 31685" "HIP 30438" ]
+]
+
+"Quetoh"
+[
+  [ "HIP 69673" "HIP 67927" ]
+]
+
+"Coozactim"
+[
+  [ "HIP 24608" "HIP 27196" "HIP 28360" ]
+]
+
+"Hap"
+[
+  [ "HIP 23015" "HIP 25428" "HIP 26451" ]
+]
+
+"Hee"
+[
+  [ "HIP 91262" "HIP 92791" ]
+]
+
+"Hazoj Koii"
+[
+  [ "HIP 80763" "HIP 79593" "HIP 86032" "HIP 80816" "HIP 86974" ]
+  [ "HIP 86032" "HIP 87933" ]
+  [ "HIP 80763" "HIP 84012" "HIP 86032" ]
+]
+
+"Hazoj canoj Himatax"
+[
+  [ "HIP 11767" "HIP 11767" ]
+]
+
+"Hazoj Cöiiqui"
+[
+  [ "HIP 80763" "HIP 80763" ]
+]
+
+"Hazoj canoj Hantificaü"
+[
+  [ "HIP 32349" "HIP 32349" ]
+]

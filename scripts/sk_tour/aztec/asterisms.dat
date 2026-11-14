@@ -1,0 +1,32 @@
+# SPDX-FileCopyrightText:  
+# SPDX-License-Identifier: GPL-2.0-or-later
+
+# Constellation patterns converted from JSON
+
+"Mamalhuaztli"
+[
+  [ "HIP 26727" "HIP 26311" "HIP 25930" ]
+  [ "HIP 26311" "HIP 26237" "HIP 26221" "HIP 26199" ]
+]
+
+"Tianquiztli"
+[
+  [ "HIP 17847" "HIP 17664" "HIP 17579" "HIP 17531" "HIP 17489" "HIP 17499" "HIP 17608" "HIP 17847" ]
+]
+
+"Citlaltlachtli"
+[
+  [ "HIP 37826" "HIP 36850" "HIP 34693" "HIP 32246" "HIP 30343" "HIP 30883" "HIP 31681" "HIP 34088" "HIP 36962" "HIP 37826" ]
+]
+
+"Xonecuilli"
+[
+  [ "HIP 11767" "HIP 85822" "HIP 82080" "HIP 77055" "HIP 72607" "HIP 75097" "HIP 79822" ]
+]
+
+"Colotl Ixayac"
+[
+  [ "HIP 85927" "HIP 86670" "HIP 87073" "HIP 86228" "HIP 84143" "HIP 82671" "HIP 82514" "HIP 82396" "HIP 81266" "HIP 80763" "HIP 78401" ]
+  [ "HIP 80763" "HIP 78265" ]
+  [ "HIP 80763" "HIP 78820" ]
+]
