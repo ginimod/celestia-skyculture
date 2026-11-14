@@ -25,3 +25,8 @@ Installer le repository dans le répertoire de travail de Celestia
 
 celestia --conf {celestia_home}/scripts/sk_tour/{SKYCULTURE}/celestia.cfg
 
+## Sources 
+
+- [https://github.com/Stellarium/stellarium/tree/master/skycultures](https://github.com/Stellarium/stellarium/tree/master/skycultures)
+- 
+-[https://github.com/Stellarium/stellarium-skycultures](https://github.com/Stellarium/stellarium-skycultures)
